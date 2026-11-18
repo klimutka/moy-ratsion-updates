@@ -1,10 +1,10 @@
 {
-  "versionName": "1.4",
-  "versionCode": 5,
+  "versionName": "1.6",
+  "versionCode": 7,
   "minSupportedVersionCode": 4,
-  "apkUrl": "https://github.com/klimutka/moy-ratsion-updates/releases/download/v1.4.0/app-release.apk",
-  "apkSizeBytes": 59562,
-  "sha256": "81fd31c068a76871235ae118777669daf9f8b87e8ee796110a205e0f9b3db020",
+  "apkUrl": "https://github.com/klimutka/moy-ratsion-updates/releases/download/v1.6.0/app-release.apk",
+  "apkSizeBytes": 69469,
+  "sha256": "23f5921e88ef206e02bf309ddd1a4b4e4788a81909f8ac098df4753c2e3347ba",
   "signerSha256": "7df0e4eb463a99a6b47ab7dc6da2a46934bf1839fc78ba186f4baed9d1f6e100",
   "changelog": [
     "Встроенная проверка обновлений без перехода на GitHub.",
